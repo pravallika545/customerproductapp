@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.dxctraining.mongoexperiments</groupId>
-	<artifactId>productmgt-mongo</artifactId>
+	<artifactId>productmgtmongo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>productmgt</name>
